@@ -1,8 +1,10 @@
+#Workshop from Fullstack Code of Academy
+
 ###Overview
 
 In this section of the Guessing Game Project, you will be using Test Driven development to build out the functions that you'll need for the functionality of your Guessing Game.
 
-You'll be using an Object-Oriented Approach in this project. In object oriented programming, objects are used as an abstraction of something we want to describe or manipulate. In this project, we will use objects to represent an instance of a game. 
+You'll be using an Object-Oriented Approach in this project. In object oriented programming, objects are used as an abstraction of something we want to describe or manipulate. In this project, we will use objects to represent an instance of a game.
 
 First, you'll need to create a constructor function, Game, that will create your game instances. You'll define all the methods that can modify or read data from game on Game.prototype. You'll also need a couple of helper functions that are not defined on Game.prototype, but will be used inside the instance methods.
 
@@ -19,7 +21,7 @@ When you're finished you'll have the following functions:
 
 ###Steps
 
-This assignment is in the style of Test First. To start, fork and clone this repository to your local machine. 
+This assignment is in the style of Test First. To start, fork and clone this repository to your local machine.
 
 1. Fork this repository
 2. `git clone https://github.com/YOURUSERNAME/guessingGame-Part2`
