@@ -1,6 +1,6 @@
-#Workshop from Fullstack Code of Academy
+# Workshop from Fullstack Code of Academy
 
-###Overview
+### Overview
 
 In this section of the Guessing Game Project, you will be using Test Driven development to build out the functions that you'll need for the functionality of your Guessing Game.
 
@@ -19,7 +19,7 @@ When you're finished you'll have the following functions:
  - newGame
  - shuffle
 
-###Steps
+### Steps
 
 This assignment is in the style of Test First. To start, fork and clone this repository to your local machine.
 
